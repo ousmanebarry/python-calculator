@@ -11,7 +11,7 @@ This is a calculator made with the use of Python to do simple calculations such 
 ### Python Build
 
 1. Download this repository
-2. Install tkinter in your terminal with this command : **pip install tkinter** or use **pip3 install tkinter**
+2. Install tkinter in your terminal with this command : `<**pip install tkinter**>` or use `<**pip3 install tkinter**>`
 3. You can now run the **main.py** file
 
 ### Exe Build
