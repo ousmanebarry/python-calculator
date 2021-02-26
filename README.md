@@ -2,11 +2,11 @@
 
 ## What is this?
 
-This is a calculator made with the use of Python to do simple calculations.
+This is a calculator made with the use of Python to do simple calculations
 
 ![calculator_image](https://user-images.githubusercontent.com/79618101/109247850-a6210d00-77b2-11eb-874a-0483c94e878e.JPG)
 
-This is one of my first few Python projects so I will add more functionalities to this calculator as time goes on.
+This is one of my first few Python projects so I will add more functionalities to this calculator as time goes on
 
 ## Functionalities
 
@@ -36,5 +36,9 @@ This is one of my first few Python projects so I will add more functionalities t
 
 ## License 
 
-This project is licensed under MIT License - see the 
+This project is licensed under MIT License - see the [LICENSE.md](https://github.com/ousmanebarry/python-calculator/blob/main/LICENSE) file for details
+
+## Acknowledgments
+
+* This project was heavilty inspired by [codemy.com](https://www.youtube.com/channel/UCFB0dxMudkws1q8w5NJEAmw) YouTube channel
 
