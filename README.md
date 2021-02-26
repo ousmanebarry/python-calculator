@@ -6,6 +6,8 @@ This is a calculator made with the use of Python to do simple calculations such 
 
 ![calculator_image](https://user-images.githubusercontent.com/79618101/109247850-a6210d00-77b2-11eb-874a-0483c94e878e.JPG)
 
+This is one of my first few Python projects so I will add more functionalities to this calculator as time goes on.
+
 ## How to use?
 
 ### Python Build
