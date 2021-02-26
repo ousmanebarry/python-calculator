@@ -2,11 +2,18 @@
 
 ## What is this?
 
-This is a calculator made with the use of Python to do simple calculations such as addition, subtraction, multiplication and division.
+This is a calculator made with the use of Python to do simple calculations.
 
 ![calculator_image](https://user-images.githubusercontent.com/79618101/109247850-a6210d00-77b2-11eb-874a-0483c94e878e.JPG)
 
 This is one of my first few Python projects so I will add more functionalities to this calculator as time goes on.
+
+## Functionalities
+
+* Simple Additions
+* Simple Subtractions
+* Simple Multiplications
+* Simple Divisions
 
 ## How to use?
 
@@ -21,3 +28,13 @@ This is one of my first few Python projects so I will add more functionalities t
 1. Download this repository
 2. Inside **python-calculator** navigate to the **exe build** directory
 3. Run the **calculator.exe** 
+
+## Built With
+
+* [Python](https://www.python.org/) - The programming language used
+* [Pycharm](https://www.jetbrains.com/pycharm/) - The IDE used
+
+## License 
+
+This project is licensed under MIT License - see the 
+
